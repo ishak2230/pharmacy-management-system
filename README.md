@@ -11,13 +11,13 @@ A web-based system to streamline pharmacy operations including inventory, sales,
 - Alerts for low-stock and soon-to-expire medicines
 - Stored procedures for reporting and monitoring
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository or download the source code.
 2. Import the provided SQL script into your MySQL server.
