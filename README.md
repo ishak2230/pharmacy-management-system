@@ -1,6 +1,6 @@
 # 💊 Pharmacy Management System
 
-The Pharmacy Management System digitizes daily pharmacy operations by replacing manual processes with an integrated web-based solution. The system enables pharmacies to efficiently manage medicines, suppliers, customers, employees, purchases, and sales while maintaining accurate inventory levels and generating business reports. :contentReference[oaicite:1]{index=1}
+The Pharmacy Management System digitizes daily pharmacy operations by replacing manual processes with an integrated web-based solution. The system enables pharmacies to efficiently manage medicines, suppliers, customers, employees, purchases, and sales while maintaining accurate inventory levels and generating business reports.
 
 ---
 
